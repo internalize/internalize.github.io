@@ -1,0 +1,11 @@
+{
+  "name": "internalize",
+  "short_name": "internalize",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
+  "description": "Main project for Internalize",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
